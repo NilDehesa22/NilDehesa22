@@ -20,7 +20,9 @@ body {
     align-items: center;    /* centra els elements en la direcció perpendicular a la de disposició */
     font-size: 4vmax;    /* mida d'un 4% respecte l'alçària de la pantalla */
     color: Green;    /* color del text */
-    background-color: #950E17;    /* color de fons */ background-color:#
+    background-color:#fcca60
+
+    /* color de fons */ background-color:#
 fc7b60
 
 }
@@ -35,7 +37,6 @@ fc7b60
     justify-content: center;
     align-items: center;
     color: white;
-    background-color: #950E17;
     font-size: 5vmax;
     cursor: pointer;    /* en ordinadors, indica que s'hi pot fer clic */
 }
